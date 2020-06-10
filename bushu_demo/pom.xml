@@ -17,6 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <skipTests>true</skipTests>
+        <docker.imageName>bushu_domo_01</docker.imageName>
     </properties>
 
     <dependencies>
