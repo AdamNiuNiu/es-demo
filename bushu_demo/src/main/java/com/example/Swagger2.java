@@ -28,6 +28,6 @@ public class Swagger2 {
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder().title("Springboot测试api文档")
                 .description("").termsOfServiceUrl("")
-                .version("2020.06.09.02").build();
+                .version("2020.06.10.01").build();
     }
 }
